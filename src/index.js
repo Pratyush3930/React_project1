@@ -1,3 +1,5 @@
+//this website was referenced from javascript mastery youtube channel
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 // above is used for importing packages 
